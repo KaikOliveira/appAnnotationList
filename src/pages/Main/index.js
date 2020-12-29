@@ -118,7 +118,7 @@ import {sha256} from 'react-native-sha256';
 
 const styles = StyleSheet.create({
     container:{
-        backgroundColor:'#ffeb3b',
+        backgroundColor:'#000',
         flex:1,
     },
     inputContainer:{
